@@ -1,0 +1,161 @@
+student_id,student_name,course,semester,attendance_pct,marks,max_marks
+STU001,Aarav Sharma,Python Programming,Semester 1,77,80,100
+STU001,Aarav Sharma,Statistics,Semester 1,76,63,100
+STU001,Aarav Sharma,Data Structures,Semester 1,80,56,100
+STU001,Aarav Sharma,Database Fundamentals,Semester 1,76,82,100
+STU001,Aarav Sharma,Python Programming,Semester 2,88,87,100
+STU001,Aarav Sharma,Statistics,Semester 2,72,90,100
+STU001,Aarav Sharma,Data Structures,Semester 2,74,66,100
+STU001,Aarav Sharma,Database Fundamentals,Semester 2,85,70,100
+STU002,Diya Verma,Python Programming,Semester 1,88,82,100
+STU002,Diya Verma,Statistics,Semester 1,87,100,100
+STU002,Diya Verma,Data Structures,Semester 1,100,78,100
+STU002,Diya Verma,Database Fundamentals,Semester 1,100,100,100
+STU002,Diya Verma,Python Programming,Semester 2,100,85,100
+STU002,Diya Verma,Statistics,Semester 2,98,99,100
+STU002,Diya Verma,Data Structures,Semester 2,96,85,100
+STU002,Diya Verma,Database Fundamentals,Semester 2,100,78,100
+STU003,Kabir Singh,Python Programming,Semester 1,45,96,100
+STU003,Kabir Singh,Statistics,Semester 1,58,86,100
+STU003,Kabir Singh,Data Structures,Semester 1,50,96,100
+STU003,Kabir Singh,Database Fundamentals,Semester 1,61,71,100
+STU003,Kabir Singh,Python Programming,Semester 2,59,100,100
+STU003,Kabir Singh,Statistics,Semester 2,51,97,100
+STU003,Kabir Singh,Data Structures,Semester 2,47,100,100
+STU003,Kabir Singh,Database Fundamentals,Semester 2,60,83,100
+STU004,Ananya Gupta,Python Programming,Semester 1,70,77,100
+STU004,Ananya Gupta,Statistics,Semester 1,74,71,100
+STU004,Ananya Gupta,Data Structures,Semester 1,68,90,100
+STU004,Ananya Gupta,Database Fundamentals,Semester 1,59,82,100
+STU004,Ananya Gupta,Python Programming,Semester 2,63,100,100
+STU004,Ananya Gupta,Statistics,Semester 2,71,92,100
+STU004,Ananya Gupta,Data Structures,Semester 2,63,76,100
+STU004,Ananya Gupta,Database Fundamentals,Semester 2,60,89,100
+STU005,Arjun Mehta,Python Programming,Semester 1,77,84,100
+STU005,Arjun Mehta,Statistics,Semester 1,85,76,100
+STU005,Arjun Mehta,Data Structures,Semester 1,88,100,100
+STU005,Arjun Mehta,Database Fundamentals,Semester 1,78,93,100
+STU005,Arjun Mehta,Python Programming,Semester 2,83,97,100
+STU005,Arjun Mehta,Statistics,Semester 2,81,97,100
+STU005,Arjun Mehta,Data Structures,Semester 2,91,96,100
+STU005,Arjun Mehta,Database Fundamentals,Semester 2,83,98,100
+STU006,Isha Kapoor,Python Programming,Semester 1,70,75,100
+STU006,Isha Kapoor,Statistics,Semester 1,75,85,100
+STU006,Isha Kapoor,Data Structures,Semester 1,79,70,100
+STU006,Isha Kapoor,Database Fundamentals,Semester 1,86,80,100
+STU006,Isha Kapoor,Python Programming,Semester 2,78,71,100
+STU006,Isha Kapoor,Statistics,Semester 2,85,90,100
+STU006,Isha Kapoor,Data Structures,Semester 2,79,70,100
+STU006,Isha Kapoor,Database Fundamentals,Semester 2,81,61,100
+STU007,Reyansh Patel,Python Programming,Semester 1,73,65,100
+STU007,Reyansh Patel,Statistics,Semester 1,88,58,100
+STU007,Reyansh Patel,Data Structures,Semester 1,75,75,100
+STU007,Reyansh Patel,Database Fundamentals,Semester 1,86,60,100
+STU007,Reyansh Patel,Python Programming,Semester 2,85,56,100
+STU007,Reyansh Patel,Statistics,Semester 2,78,54,100
+STU007,Reyansh Patel,Data Structures,Semester 2,80,48,100
+STU007,Reyansh Patel,Database Fundamentals,Semester 2,71,68,100
+STU008,Meera Joshi,Python Programming,Semester 1,48,50,100
+STU008,Meera Joshi,Statistics,Semester 1,67,41,100
+STU008,Meera Joshi,Data Structures,Semester 1,62,40,100
+STU008,Meera Joshi,Database Fundamentals,Semester 1,48,61,100
+STU008,Meera Joshi,Python Programming,Semester 2,61,65,100
+STU008,Meera Joshi,Statistics,Semester 2,49,69,100
+STU008,Meera Joshi,Data Structures,Semester 2,56,49,100
+STU008,Meera Joshi,Database Fundamentals,Semester 2,66,55,100
+STU009,Vivaan Khanna,Python Programming,Semester 1,78,89,100
+STU009,Vivaan Khanna,Statistics,Semester 1,88,71,100
+STU009,Vivaan Khanna,Data Structures,Semester 1,78,97,100
+STU009,Vivaan Khanna,Database Fundamentals,Semester 1,85,74,100
+STU009,Vivaan Khanna,Python Programming,Semester 2,77,100,100
+STU009,Vivaan Khanna,Statistics,Semester 2,75,85,100
+STU009,Vivaan Khanna,Data Structures,Semester 2,77,84,100
+STU009,Vivaan Khanna,Database Fundamentals,Semester 2,79,97,100
+STU010,Saanvi Malhotra,Python Programming,Semester 1,64,43,100
+STU010,Saanvi Malhotra,Statistics,Semester 1,71,34,100
+STU010,Saanvi Malhotra,Data Structures,Semester 1,74,61,100
+STU010,Saanvi Malhotra,Database Fundamentals,Semester 1,72,59,100
+STU010,Saanvi Malhotra,Python Programming,Semester 2,72,37,100
+STU010,Saanvi Malhotra,Statistics,Semester 2,64,63,100
+STU010,Saanvi Malhotra,Data Structures,Semester 2,74,59,100
+STU010,Saanvi Malhotra,Database Fundamentals,Semester 2,62,33,100
+STU011,Aditya Rao,Python Programming,Semester 1,93,61,100
+STU011,Aditya Rao,Statistics,Semester 1,84,73,100
+STU011,Aditya Rao,Data Structures,Semester 1,83,67,100
+STU011,Aditya Rao,Database Fundamentals,Semester 1,80,65,100
+STU011,Aditya Rao,Python Programming,Semester 2,90,59,100
+STU011,Aditya Rao,Statistics,Semester 2,84,57,100
+STU011,Aditya Rao,Data Structures,Semester 2,79,51,100
+STU011,Aditya Rao,Database Fundamentals,Semester 2,87,62,100
+STU012,Kiara Das,Python Programming,Semester 1,63,53,100
+STU012,Kiara Das,Statistics,Semester 1,67,62,100
+STU012,Kiara Das,Data Structures,Semester 1,54,52,100
+STU012,Kiara Das,Database Fundamentals,Semester 1,59,66,100
+STU012,Kiara Das,Python Programming,Semester 2,68,36,100
+STU012,Kiara Das,Statistics,Semester 2,63,61,100
+STU012,Kiara Das,Data Structures,Semester 2,63,36,100
+STU012,Kiara Das,Database Fundamentals,Semester 2,61,65,100
+STU013,Rohan Bansal,Python Programming,Semester 1,45,53,100
+STU013,Rohan Bansal,Statistics,Semester 1,59,38,100
+STU013,Rohan Bansal,Data Structures,Semester 1,52,38,100
+STU013,Rohan Bansal,Database Fundamentals,Semester 1,49,46,100
+STU013,Rohan Bansal,Python Programming,Semester 2,50,47,100
+STU013,Rohan Bansal,Statistics,Semester 2,51,28,100
+STU013,Rohan Bansal,Data Structures,Semester 2,46,54,100
+STU013,Rohan Bansal,Database Fundamentals,Semester 2,55,41,100
+STU014,Aditi Saini,Python Programming,Semester 1,89,97,100
+STU014,Aditi Saini,Statistics,Semester 1,76,96,100
+STU014,Aditi Saini,Data Structures,Semester 1,86,73,100
+STU014,Aditi Saini,Database Fundamentals,Semester 1,86,76,100
+STU014,Aditi Saini,Python Programming,Semester 2,84,83,100
+STU014,Aditi Saini,Statistics,Semester 2,79,99,100
+STU014,Aditi Saini,Data Structures,Semester 2,77,82,100
+STU014,Aditi Saini,Database Fundamentals,Semester 2,77,90,100
+STU015,Ishaan Gill,Python Programming,Semester 1,77,35,100
+STU015,Ishaan Gill,Statistics,Semester 1,77,38,100
+STU015,Ishaan Gill,Data Structures,Semester 1,87,33,100
+STU015,Ishaan Gill,Database Fundamentals,Semester 1,92,33,100
+STU015,Ishaan Gill,Python Programming,Semester 2,82,57,100
+STU015,Ishaan Gill,Statistics,Semester 2,81,59,100
+STU015,Ishaan Gill,Data Structures,Semester 2,93,59,100
+STU015,Ishaan Gill,Database Fundamentals,Semester 2,82,44,100
+STU016,Myra Jain,Python Programming,Semester 1,89,80,100
+STU016,Myra Jain,Statistics,Semester 1,96,65,100
+STU016,Myra Jain,Data Structures,Semester 1,84,89,100
+STU016,Myra Jain,Database Fundamentals,Semester 1,96,57,100
+STU016,Myra Jain,Python Programming,Semester 2,92,74,100
+STU016,Myra Jain,Statistics,Semester 2,84,64,100
+STU016,Myra Jain,Data Structures,Semester 2,93,69,100
+STU016,Myra Jain,Database Fundamentals,Semester 2,83,68,100
+STU017,Atharv Nair,Python Programming,Semester 1,100,41,100
+STU017,Atharv Nair,Statistics,Semester 1,100,26,100
+STU017,Atharv Nair,Data Structures,Semester 1,95,44,100
+STU017,Atharv Nair,Database Fundamentals,Semester 1,90,20,100
+STU017,Atharv Nair,Python Programming,Semester 2,96,30,100
+STU017,Atharv Nair,Statistics,Semester 2,96,55,100
+STU017,Atharv Nair,Data Structures,Semester 2,87,48,100
+STU017,Atharv Nair,Database Fundamentals,Semester 2,87,36,100
+STU018,Sara Ali,Python Programming,Semester 1,81,68,100
+STU018,Sara Ali,Statistics,Semester 1,86,80,100
+STU018,Sara Ali,Data Structures,Semester 1,85,69,100
+STU018,Sara Ali,Database Fundamentals,Semester 1,89,67,100
+STU018,Sara Ali,Python Programming,Semester 2,73,92,100
+STU018,Sara Ali,Statistics,Semester 2,72,90,100
+STU018,Sara Ali,Data Structures,Semester 2,77,92,100
+STU018,Sara Ali,Database Fundamentals,Semester 2,73,91,100
+STU019,Dev Arora,Python Programming,Semester 1,82,55,100
+STU019,Dev Arora,Statistics,Semester 1,74,46,100
+STU019,Dev Arora,Data Structures,Semester 1,82,50,100
+STU019,Dev Arora,Database Fundamentals,Semester 1,70,55,100
+STU019,Dev Arora,Python Programming,Semester 2,76,58,100
+STU019,Dev Arora,Statistics,Semester 2,76,59,100
+STU019,Dev Arora,Data Structures,Semester 2,85,43,100
+STU019,Dev Arora,Database Fundamentals,Semester 2,80,34,100
+STU020,Navya Roy,Python Programming,Semester 1,89,49,100
+STU020,Navya Roy,Statistics,Semester 1,77,32,100
+STU020,Navya Roy,Data Structures,Semester 1,78,30,100
+STU020,Navya Roy,Database Fundamentals,Semester 1,83,62,100
+STU020,Navya Roy,Python Programming,Semester 2,87,50,100
+STU020,Navya Roy,Statistics,Semester 2,70,52,100
+STU020,Navya Roy,Data Structures,Semester 2,88,60,100
+STU020,Navya Roy,Database Fundamentals,Semester 2,81,49,100
